@@ -32,19 +32,40 @@ This repository documents the technical work involved in adapting the mod to a m
 
 GitHub Actions validates:
 
-- distributable datapack resources
-- ship entity persistence
-- boat tags
-- ship buoyancy
-- model and renderer registration
-- waterline positioning
-- steering behavior
-- control direction
+- Distributable datapack resources
+- Ship entity persistence
+- Boat tags
+- Ship buoyancy
+- Model and renderer registration
+- Waterline positioning
+- Steering behavior
+- Control direction
 - Corvette rider-seat alignment
 
 ## Building
 
-Requires Java 25.
+Requires **Java 25**.
 
 ```bash
 gradle build
+```
+
+The build process retrieves the original **Swashbucklers! 2.6.6B NeoForge 1.21.4** JAR through CurseMaven so original client assets and model data can be prepared during the build.
+
+## Original Project & Rights
+
+**Swashbucklers!** is originally authored by **Halbear**.
+
+The original mod metadata identifies its license as **All Rights Reserved**.
+
+This compatibility-port repository does not grant any additional rights to the original mod's code, textures, models, or other assets.
+
+Because the build process references original Swashbucklers assets, redistribution of compiled builds should only be done when permitted by the original author's terms or with their permission.
+
+## ModPorterMC
+
+Maintained as part of [ModPorterMC](https://github.com/ModPorterMC).
+
+**Minecraft Mod Ports • Version Updates • Loader Conversions**
+
+**Contact:** modportermc@outlook.com
