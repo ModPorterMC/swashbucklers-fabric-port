@@ -1,3 +1,13 @@
+> ## ModPorterMC Port
+> This repository contains an unofficial Minecraft **26.1.2 Fabric compatibility port** of Swashbucklers!.
+>
+> Port work includes Fabric migration, rendering and model integration, client-server input networking,
+> ship behavior and buoyancy, waterline and rider positioning fixes, and automated validation.
+>
+> Maintained as part of [ModPorterMC](https://github.com/ModPorterMC).
+>
+> ---
+
 # Swashbucklers! — Fabric 26.1.2 Compatibility Port
 
 [![Build](https://github.com/ModPorterMC/swashbucklers-fabric-port/actions/workflows/build.yml/badge.svg)](https://github.com/ModPorterMC/swashbucklers-fabric-port/actions/workflows/build.yml)
@@ -61,11 +71,3 @@ The original mod metadata identifies its license as **All Rights Reserved**.
 This compatibility-port repository does not grant any additional rights to the original mod's code, textures, models, or other assets.
 
 Because the build process references original Swashbucklers assets, redistribution of compiled builds should only be done when permitted by the original author's terms or with their permission.
-
-## ModPorterMC
-
-Maintained as part of [ModPorterMC](https://github.com/ModPorterMC).
-
-**Minecraft Mod Ports • Version Updates • Loader Conversions**
-
-**Contact:** modportermc@outlook.com
