@@ -6,6 +6,7 @@
 >
 > Maintained as part of [ModPorterMC](https://github.com/ModPorterMC).
 >
+> **Need a mod ported? [Open a commission request](https://github.com/ModPorterMC/commission-requests/issues/new/choose)**
 > ---
 
 # Swashbucklers! — Fabric 26.1.2 Compatibility Port
